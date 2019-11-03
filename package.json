@@ -1,0 +1,13 @@
+{
+  "name": "hugotgot-gitfolio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gitfolio build Hugotgot --linkedin hugo-duval-74090b159 --twitter @hugotgot --order desc --sort updated",
+    "serve": "gitfolio run -p 8089"
+  },
+  "author": "",
+  "dependencies": {
+    "gitfolio": "^0.1.5"
+  }
+}
